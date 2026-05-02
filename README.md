@@ -16,6 +16,8 @@ It features a custom-built game engine, and intelligent opponents are controlled
 - Lombok for boilerplate reduction
 - Log4j2 for logging
 - Maven for project management and build
+- TestNG for grouped testing
+- Mockito for network-related testing
 
 ## Running the Game
 - Java 22 is required to run the JAR files.
